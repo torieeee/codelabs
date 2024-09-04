@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07bbe9d7-f079-4e82-9877-78c678784d96" name="Changes" comment="First codelab in graphics">
-      <change afterPath="$PROJECT_DIR$/Similarity.py" afterDir="false" />
+    <list default="true" id="07bbe9d7-f079-4e82-9877-78c678784d96" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generate_email_addresses.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate_email_addresses.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     "Python.generate_email_addresses.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -121,7 +120,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First codelab in graphics" />
-    <option name="LAST_COMMIT_MESSAGE" value="First codelab in graphics" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
