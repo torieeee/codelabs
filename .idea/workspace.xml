@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07bbe9d7-f079-4e82-9877-78c678784d96" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Similarity.py" beforeDir="false" afterPath="$PROJECT_DIR$/Similarity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generate_email_addresses.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate_email_addresses.py" afterDir="false" />
-    </list>
+    <list default="true" id="07bbe9d7-f079-4e82-9877-78c678784d96" name="Changes" comment="Correction" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +90,7 @@
       <workItem from="1725430771972" duration="1318000" />
       <workItem from="1725435403380" duration="7464000" />
       <workItem from="1725527582133" duration="932000" />
-      <workItem from="1726034364563" duration="285000" />
+      <workItem from="1726034364563" duration="1100000" />
     </task>
     <task id="LOCAL-00001" summary="First codelab in graphics">
       <option name="closed" value="true" />
@@ -104,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725433445999</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Correction">
+      <option name="closed" value="true" />
+      <created>1726035444867</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726035444868</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +128,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First codelab in graphics" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -138,7 +143,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Computer_graphics$generate_email_addresses.coverage" NAME="generate_email_addresses Coverage Results" MODIFIED="1725448232315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Computer_graphics$generate_email_addresses.coverage" NAME="generate_email_addresses Coverage Results" MODIFIED="1726035258345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Computer_graphics$main.coverage" NAME="main Coverage Results" MODIFIED="1725448832425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Computer_graphics$Similarity.coverage" NAME="Similarity Coverage Results" MODIFIED="1725448855569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
