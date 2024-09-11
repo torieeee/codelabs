@@ -1,5 +1,5 @@
 
-import numpy
+
 
 """df=pd.read_excel("E:/Downloads/Test Files.xlsx")
 
@@ -21,7 +21,9 @@ df["Other names"]=(
     )
 df["Student_emails"]=df["Other Names"].str[0].str.lower() + df["Surname"].str.lower() + "@gmail.com"
 print(df)"""
+
 import pandas as pd
+import numpy
 
 
 df = pd.read_excel("E:/Downloads/Test Files.xlsx")
@@ -44,7 +46,7 @@ df["Other Names"] = (df["Other Names"]
 df["Student_emails"] = df["Other Names"].str[0].str.lower() + df["Surname"].str.lower() + "@gmail.com"
 female_students=df[df["Gender"]=="F"]
 male_students=df[df["Gender"]=="M"]
-special_names=df[df["Student Name"]]
+special_names=df["Student Name"]
 print(female_students)
 print(male_students)
 print(df)

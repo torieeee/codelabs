@@ -7,6 +7,7 @@ import json
 # Load LaBSE model and tokenizer
 tokenizer = AutoTokenizer.from_pretrained("sentence-transformers/LaBSE")
 model = AutoModel.from_pretrained("sentence-transformers/LaBSE")
+df=pd.read_excel("E:/Downloads/Test Files.xlsx")
 
 # Assuming 'Other Names' column contains first names
 female_names = df[df['Gender'] == 'F']['Other Names'].str.split().str[0].unique()
